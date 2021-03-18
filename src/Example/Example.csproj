@@ -80,8 +80,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Tests\BaseTest.cs" />
     <Compile Include="Tests\Class4.cs" />
     <Compile Include="Tests\Class3.cs" />
+    <Compile Include="Tests\Class5.cs" />
     <Compile Include="Tests\FailedClass.cs" />
     <Compile Include="Tests\EmptyClass.cs" />
     <Compile Include="Tests\IgnoredClass.cs" />
